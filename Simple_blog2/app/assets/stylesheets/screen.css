@@ -1,0 +1,25 @@
+body {
+	background-color:#eee;
+	font-family: 'Roboto';
+	font-weight: 100;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color:#333;
+}
+
+a:hover {
+	color:#000;
+}
+
+h1 {
+	font-weight: 300;
+}
